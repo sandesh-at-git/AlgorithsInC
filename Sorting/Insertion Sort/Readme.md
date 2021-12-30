@@ -14,3 +14,6 @@
 
     Step 6 - Repeat until the array is sorted.
 
+## Authors
+
+- [@S👽ndesh](https://github.com/sandesh-at-git)
