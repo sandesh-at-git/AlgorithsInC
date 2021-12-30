@@ -1,5 +1,5 @@
 
-## Binary-Search
+## Binary-Search Pseudocode
 Procedure binary_search
    A ← sorted array
    n ← size of array
