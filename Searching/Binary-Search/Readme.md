@@ -25,3 +25,8 @@ Procedure binary_search
    end while
    
 end procedure
+
+
+## Authors
+
+- [@S👽ndesh Pawar](https://github.com/sandesh-at-git)
