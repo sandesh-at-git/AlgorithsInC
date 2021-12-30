@@ -7,7 +7,8 @@
 
     Step3 - Now, compare the key with all elements in the sorted array.
 
-    Step 4 - If the element in the sorted array is smaller than the current element, then move to the next element. Else, shift greater elements in the array towards the right.
+    Step 4 - If the element in the sorted array is smaller than the current element, then move to the next element. Else, shift
+    greater elements in the array towards the right.
 
     Step 5 - Insert the value.
 
