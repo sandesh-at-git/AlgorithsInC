@@ -1,5 +1,5 @@
 
-## BubbleSort AlgoRithm
+## BubbleSort AlgoRithm 😇
 
     begin BubbleSort(arr)  
     for all array elements  
