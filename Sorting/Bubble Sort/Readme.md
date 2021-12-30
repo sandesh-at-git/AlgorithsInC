@@ -42,4 +42,4 @@ end procedure return list
 
 ## Authors
 
-- [@S👽ndesh Pawar](https://github.com/sandesh-at-git)
+- [@S👽ndesh](https://github.com/sandesh-at-git)
